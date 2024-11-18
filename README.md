@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently learning HTML,  CSS AND JAVASCRIPT.
 - 💞️ I’m looking to collaborate on {To be updated soon}
-- 📫 How to reach me ...
+- 📫 How to reach me {To be updated soon}
 - 😄 Pronouns: STRICTLY He/His
 - ⚡ Fun fact: 
 
