@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,  CSS AND JAVASCRIPT.
 - 💞️ I’m looking to collaborate on {To be updated soon}
 - 📫 How to reach me {To be updated soon}
-- 😄 Pronouns: STRICTLY He/His
+- 😄 Pronouns: STRICTLY He/Him
 - ⚡ Fun fact: 
 
 <!---
