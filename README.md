@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I'm a web developer,<br><br>Taking Computer Science at The Technical University of Kenya.<br><br>I am currently doing Back-End Dev at ALX, while working on other projects.</p>
+<p align="left">I am a full-stack developer with experience building web applications using HTML, CSS, JavaScript, Python, and SQL. 
+<br>Passionate about creating practical digital solutions and continuously improving programming skills. Strong problem-solving mindset with interest in system design, backend development, and scalable applications. Currently seeking opportunities to gain real-world experience and contribute to innovative software projects.</p>
 
 ###
 
@@ -35,15 +36,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
